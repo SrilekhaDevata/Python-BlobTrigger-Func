@@ -4,5 +4,6 @@
   "azureFunctions.pythonVenv": ".venv",
   "azureFunctions.projectLanguage": "Python",
   "azureFunctions.projectRuntime": "~3",
-  "debug.internalConsoleOptions": "neverOpen"
+  "debug.internalConsoleOptions": "neverOpen",
+  "python.pythonPath": "c:\\Users\\devat\\Desktop\\AzFunc\\Python-BlobTrigger-Func\\filepicker2\\.venv\\Scripts\\python.exe"
 }
